@@ -1,1 +1,2 @@
-# devops_chaitu
+#!/bin/dash
+echo "chaitu"
